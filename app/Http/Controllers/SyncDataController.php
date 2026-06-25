@@ -106,7 +106,7 @@ class SyncDataController extends Controller
                         // custom fields
                         'company_code'      => config('constants.company_code'),
                         'company_local_ip'  => '190.92.174.183',
-                        'product_code'      => (($row->acc_type == 1) ? 'SELF APPLY' : 'HIRE AGENT'),
+                        'product_code'      => (($row->acc_type == 1) ? 'SELFAPPLY' : 'HIRELOAN'),
                     ];
                 });
             
