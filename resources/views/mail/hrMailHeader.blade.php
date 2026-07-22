@@ -414,7 +414,7 @@
                                                                                             <a target="_blank"
                                                                                                 href="https://kreditsathi.com/"
                                                                                                 style="-webkit-text-size-adjust: none; -ms-text-size-adjust: none; mso-line-height-rule: exactly; text-decoration: underline; color: #000f26; font-size: 14px;">
-                                                                                            <img src="https://kreditsathi.com/front/images/logo/logo.png"
+                                                                                            <img src="https://kreditsathi.com/public/front/images/logo/logo.png"
                                                                                                 alt="kreditsathi"
                                                                                                 style="display: block; border: 0; outline: 0; text-decoration: none; -ms-interpolation-mode: bicubic;"
                                                                                                 width="190"
@@ -460,9 +460,9 @@
                                                                     role="presentation"
                                                                     >
                                                                     <tr>
-                                                                        <td align="left" style="padding: 20px; margin: 0; line-height: 2rem;border: 1px solid green;
+                                                                        <td align="left" style="padding: 20px; margin: 0; line-height: 2rem;border: 1px solid #0055da;
                                                                             border-radius: 12px;
-                                                                            background-color: #E9F2FB;">
+                                                                            background-color: #fffcf0;">
                                                                             @yield('content')
                                                                         </td>
                                                                     </tr>
@@ -608,7 +608,7 @@
                                                                                                             valign="top"
                                                                                                             style="padding: 0; margin: 0; padding-right: 10px;">
                                                                                                             <a target="_blank"
-                                                                                                                href="https://twitter.com/kreditsathi"
+                                                                                                                href="https://x.com/kreditsathi"
                                                                                                                 style="
                                                                                                                 -webkit-text-size-adjust: none;
                                                                                                                 -ms-text-size-adjust: none;
@@ -668,7 +668,7 @@
                                                                                                             valign="top"
                                                                                                             style="padding: 0; margin: 0; padding-right:10px">
                                                                                                             <a target="_blank"
-                                                                                                                href="http://www.youtube.com/@kreditsathi"
+                                                                                                                href="https://www.youtube.com/@kreditsathii"
                                                                                                                 style="
                                                                                                                 -webkit-text-size-adjust: none;
                                                                                                                 -ms-text-size-adjust: none;
@@ -701,7 +701,7 @@
                                                                                                             valign="top"
                                                                                                             style="padding: 0; margin: 0;padding-right:10px">
                                                                                                             <a target="_blank"
-                                                                                                                href="https://www.facebook.com/@kreditsathi.in"
+                                                                                                                href="https://www.facebook.com/kreditsaathi"
                                                                                                                 style="
                                                                                                                 -webkit-text-size-adjust: none;
                                                                                                                 -ms-text-size-adjust: none;
@@ -733,7 +733,7 @@
                                                                                                             valign="top"
                                                                                                             style="padding: 0; margin: 0;">
                                                                                                             <a target="_blank"
-                                                                                                                href="https://www.instagram.com/kreditsathi/"
+                                                                                                                href="https://www.instagram.com/kreditsathifinance/"
                                                                                                                 style="
                                                                                                                 -webkit-text-size-adjust: none;
                                                                                                                 -ms-text-size-adjust: none;

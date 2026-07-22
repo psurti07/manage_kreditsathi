@@ -20,24 +20,16 @@
                             <label>Sender Id's</label>
                             <div class="form-check-size rtl-input">
                                 <div class="form-check form-check-inline">
-                                    <input class="form-check-input me-2" id="inlineRadio1" type="radio" name="senderid" value="QKBORW" checked="">
-                                    <label class="form-check-label" for="inlineRadio1">QKBORW</label>
+                                    <input class="form-check-input me-2" id="inlineRadio1" type="radio" name="senderid" value="KRDSTH" checked="">
+                                    <label class="form-check-label" for="inlineRadio1">KRDSTH</label>
                                 </div>
                                 <div class="form-check form-check-inline">
-                                    <input class="form-check-input me-2" id="inlineRadio2" type="radio" name="senderid" value="QIKBRW">
-                                    <label class="form-check-label" for="inlineRadio2">QIKBRW</label>
+                                    <input class="form-check-input me-2" id="inlineRadio2" type="radio" name="senderid" value="KDTSTI">
+                                    <label class="form-check-label" for="inlineRadio2">KDTSTI</label>
                                 </div>
                                 <div class="form-check form-check-inline">
-                                    <input class="form-check-input me-2" id="inlineRadio3" type="radio" name="senderid" value="QUIKBR">
-                                    <label class="form-check-label" for="inlineRadio3">QUIKBR</label>
-                                </div>
-                                <div class="form-check form-check-inline">
-                                    <input class="form-check-input me-2" id="inlineRadio4" type="radio" name="senderid" value="QUKBRW">
-                                    <label class="form-check-label" for="inlineRadio4">QUKBRW</label>
-                                </div>
-                                <div class="form-check form-check-inline">
-                                    <input class="form-check-input me-2" id="inlineRadio5" type="radio" name="senderid" value="QUKBOR">
-                                    <label class="form-check-label" for="inlineRadio5">QUKBOR</label>
+                                    <input class="form-check-input me-2" id="inlineRadio3" type="radio" name="senderid" value="KRDTSH">
+                                    <label class="form-check-label" for="inlineRadio3">KRDTSH</label>
                                 </div>
                             </div>
                         </div>
